@@ -110,8 +110,11 @@ Ahmed Salem
 🔮 Future Enhancements
 
 ✅ Integrate with Jenkins / GitHub Actions CI/CD
+
 ✅ Add API Test Layer (RestAssured)
+
 ✅ Implement Parallel Execution with TestNG suites
+
 ✅ Dockerized Selenium Grid for cross-browser runs
 
 
