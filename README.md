@@ -13,14 +13,23 @@ Data-Driven Testing (DDT) for test reusability and flexibility
 Behavior-Driven Development (BDD) for high-level scenario validation:
 
 ⚙️ Tech Stack
+
 Category	Tools / Frameworks
+
 Programming Language	Java (JDK 21+)
+
 Test Framework	TestNG / Cucumber (BDD)
+
 Automation Tool	Selenium WebDriver
+
 Build Tool	Maven
+
 Reporting	Allure Reports
+
 Design Pattern	Page Object Model (POM)
+
 Data Source	Excel / CSV / JSON (depending on your implementation)
+
 IDE	IntelliJ IDEA / Eclipse
 
 🧠 Project Structure
@@ -70,9 +79,13 @@ Checkout Process
 Account Management
 
 ✅ Page Object Model (POM) for cleaner and maintainable code
+
 ✅ Data-Driven Testing (DDT) using external data sources
+
 ✅ BDD Scenarios implemented using Cucumber and Gherkin syntax
+
 ✅ Cross-browser Testing Support
+
 ✅ Detailed Allure Reporting
 
 
@@ -81,8 +94,10 @@ Account Management
 1️⃣ Clone the repository
 git clone https://github.com/your-username/JPetStore-Automation.git
 cd JPetStore-Automation
+
 2️⃣ Install dependencies
 mvn clean install
+
 3️⃣ Run TestNG tests
 mvn test
 
@@ -93,9 +108,13 @@ mvn test
 Allure Reports provide:
 
 📈 Execution summary
+
 ✅ Pass/❌ Fail statistics
+
 🖼️ Screenshots on failure
+
 🧩 Step-by-step logs
+
 📜 Historical trends
 
 
@@ -103,8 +122,11 @@ Allure Reports provide:
 🧑‍💻 Author
 
 Ahmed Salem
+
 💼 QA Automation Engineer | DevOps Enthusiast
+
 📧 linkedin.com/in/ahmed-salem-8380111b8
+
 🌐 ahmed.salem.mohamed.2002@gmail.com
 
 🔮 Future Enhancements
