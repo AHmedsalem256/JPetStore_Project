@@ -1,4 +1,8 @@
-🧪 JPetStore Test Automation Framework
+✨ JPetStore End-to-End Test Automation Framework
+(Java | Selenium | TestNG | Cucumber BDD | Allure Reports)
+<p align="center"> <img src="https://img.shields.io/badge/Java-21+-orange?logo=openjdk" /> <img src="https://img.shields.io/badge/Selenium-WebDriver-brightgreen?logo=selenium" /> <img src="https://img.shields.io/badge/TestNG-Framework-blue" /> <img src="https://img.shields.io/badge/Cucumber-BDD-23D96C?logo=cucumber" /> <img src="https://img.shields.io/badge/Allure-Reports-purple?logo=allure" /> <img src="https://img.shields.io/badge/Maven-Build-red?logo=apachemaven" /> </p> <p align="center"> <a href="https://github.com/your-username/JPetStore-Automation/actions"> <img src="https://github.com/your-username/JPetStore-Automation/actions/workflows/maven.yml/badge.svg" alt="Build Status"/> </a> <a href="https://github.com/your-username/JPetStore-Automation/actions"> <img src="https://img.shields.io/badge/Allure-Report-blueviolet?logo=allure" alt="Allure Report"/> </a> <a href="LICENSE"> <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"/> </a> </p>
+
+
 📋 Overview
 
 This project automates the functional test cases of the JPetStore Demo Website
